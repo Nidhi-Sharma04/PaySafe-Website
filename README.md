@@ -17,7 +17,7 @@ Follow these steps to run the project locally:
 
 git clone https://github.com/Nidhi-Sharma04/PaySafe-Website/paytm-clone.git
 
-cd PaySafe-Website
+cd Paytm-clone
 
 
 
@@ -26,6 +26,7 @@ npm install
 
 ### 3️⃣ Start the Development Server
 npm start
+
 Now, open **http://localhost:3000/** in your browser.
 
 
