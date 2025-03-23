@@ -17,7 +17,8 @@ Follow these steps to run the project locally:
 
 git clone https://github.com/Nidhi-Sharma04/PaySafe-Website.git
 
-cd paytm-clone
+cd PaySafe-Website
+
 
 
 ### 2️⃣ Install Dependencies
