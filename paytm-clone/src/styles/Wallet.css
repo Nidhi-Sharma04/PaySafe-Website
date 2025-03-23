@@ -1,0 +1,22 @@
+.wallet {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .wallet h2 {
+    color: #0070f3;
+    font-size: 28px;
+    animation: slideIn 1s ease-in-out;
+  }
+  
+  @keyframes slideIn {
+    0% {
+      transform: translateX(-100px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  

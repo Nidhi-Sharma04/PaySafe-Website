@@ -1,0 +1,22 @@
+.payments {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .payments h2 {
+    color: #0070f3;
+    font-size: 28px;
+    animation: zoomIn 1s ease-in-out;
+  }
+  
+  @keyframes zoomIn {
+    0% {
+      transform: scale(0.8);
+      opacity: 0;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  

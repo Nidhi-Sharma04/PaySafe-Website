@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Prevent default scrolling */
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.scroll-container {
+  scroll-snap-type: y mandatory; /* Enable full-page scrolling */
+  overflow-y: scroll; /* Allow scrolling */
+  height: 100vh;
+}
+
+.full-page {
+  height: 100vh; /* Make each section full screen */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  scroll-snap-align: start; /* Snap to each section */
+}
