@@ -15,7 +15,7 @@ Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/paytm-clone.git
+git clone https://github.com/Nidhi-Sharma04/PaySafe-Website.git
 cd paytm-clone
 
 
