@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/Home.css";
-import billImage from "../assets/payment-illustration.png"; // Ensure the image is saved in src/assets/
+import billImage from "../assets/payment-illustration.png"; 
 
 const Home = ({ scrollToSection, transactionsRef }) => {
   return (
